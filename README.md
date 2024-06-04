@@ -1,6 +1,6 @@
 ## Authentication usage of cookie
 
-# stack used
+### stack used
 - Express
 - jsonwebtoken
 - bcrypt
